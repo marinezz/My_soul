@@ -5,6 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode/pom.xml" />
+        <option value="$PROJECT_DIR$/code/pom.xml" />
+        <option value="$PROJECT_DIR$/Code_examples/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
